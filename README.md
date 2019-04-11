@@ -1,6 +1,4 @@
-# first_vue_app
-
-## Project setup
+# Todo List## Project setup
 ```
 npm install
 ```
